@@ -1,0 +1,15 @@
+C:\Users\talho\source\repos\vika1\vika1\bin\Debug\net6.0\vika1.exe
+C:\Users\talho\source\repos\vika1\vika1\bin\Debug\net6.0\vika1.deps.json
+C:\Users\talho\source\repos\vika1\vika1\bin\Debug\net6.0\vika1.runtimeconfig.json
+C:\Users\talho\source\repos\vika1\vika1\bin\Debug\net6.0\vika1.dll
+C:\Users\talho\source\repos\vika1\vika1\bin\Debug\net6.0\vika1.pdb
+C:\Users\talho\source\repos\vika1\vika1\obj\Debug\net6.0\vika1.csproj.AssemblyReference.cache
+C:\Users\talho\source\repos\vika1\vika1\obj\Debug\net6.0\vika1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talho\source\repos\vika1\vika1\obj\Debug\net6.0\vika1.AssemblyInfoInputs.cache
+C:\Users\talho\source\repos\vika1\vika1\obj\Debug\net6.0\vika1.AssemblyInfo.cs
+C:\Users\talho\source\repos\vika1\vika1\obj\Debug\net6.0\vika1.csproj.CoreCompileInputs.cache
+C:\Users\talho\source\repos\vika1\vika1\obj\Debug\net6.0\vika1.dll
+C:\Users\talho\source\repos\vika1\vika1\obj\Debug\net6.0\refint\vika1.dll
+C:\Users\talho\source\repos\vika1\vika1\obj\Debug\net6.0\vika1.pdb
+C:\Users\talho\source\repos\vika1\vika1\obj\Debug\net6.0\vika1.genruntimeconfig.cache
+C:\Users\talho\source\repos\vika1\vika1\obj\Debug\net6.0\ref\vika1.dll
